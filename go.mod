@@ -1,3 +1,3 @@
-module github.com/warrially/HtmlGo
+module github.com/yangtizi/htmlgo
 
 go 1.16
